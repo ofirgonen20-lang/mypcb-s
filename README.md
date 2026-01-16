@@ -8,10 +8,10 @@ i created this pcb from the hackclub blueprint project
 ![PCB](IMAGES/schematic.png)
 
   ## **PCB**
-![PCB](IMAGES/PCB)
+![PCB](IMAGES/PCB.png)
 
   ## **case**
-![PCB](IMAGES/CASE)
+![PCB](IMAGES/CASE.png)
 
   ## **assembled**
-![PCB](IMAGES/assembled)
+![PCB](IMAGES/assembled.png)
