@@ -6,3 +6,12 @@ i created this pcb from the hackclub blueprint project
 
   ## **schematic**
 ![PCB](IMAGES/schematic.png)
+
+  ## **PCB**
+![PCB](IMAGES/PCB)
+
+  ## **case**
+![PCB](IMAGES/CASE)
+
+  ## **assembled**
+![PCB](IMAGES/assembled)
