@@ -7,11 +7,11 @@ i created this pcb from the hackclub blueprint project
   ## **schematic**
 ![PCB](IMAGES/schematic.png)
 
-  ## **PCB**
+  ## **PCB layout**
 ![PCB](IMAGES/PCB.png)
 
-  ## **case**
+  ## **case top & buttom**
 ![PCB](IMAGES/CASE.png)
 
-  ## **assembled**
+  ## **assembled case**
 ![PCB](IMAGES/assembled.png)
