@@ -4,7 +4,7 @@ i created this pcb from the hackclub blueprint project
 
 # Project Images
 
-  ## **schematic**
+  ## **schematic  1**
 ![PCB](IMAGES/schematic.png)
 
   ## **PCB layout**
